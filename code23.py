@@ -4,3 +4,9 @@ print(student[0])
 print(student[1])
 print(student[2])
 
+if "AI" in student:
+    print("Có")
+else:
+    print("Không")
+
+    
