@@ -1,0 +1,16 @@
+import numpy as np 
+
+# input vector 
+x = np.array([2,3])
+
+# weight matrix
+
+W = np.array([
+    [3,5],
+    [4,6]
+])
+
+output = x @ W
+
+print(output)
+
