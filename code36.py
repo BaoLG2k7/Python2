@@ -1,7 +1,7 @@
 import numpy as np 
 
 # input vector 
-x = np.array([2,3])
+x = np.array([1,2])
 
 # weight matrix
 
@@ -13,4 +13,3 @@ W = np.array([
 output = x @ W
 
 print(output)
-
