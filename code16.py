@@ -6,6 +6,7 @@ for i in x:
     if i == "t":
         print(index)
 
-    index = index + 1     
+    index += 1 
+    
 
         
