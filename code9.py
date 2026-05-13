@@ -6,7 +6,9 @@ file = open("study2.txt", "r")
 
 content = file.read()
 
-print(content.upper())
+print(content.upper()) #upper là viết hoa 
+
+
 
 
 
